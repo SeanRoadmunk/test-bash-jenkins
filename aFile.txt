@@ -1,0 +1,1 @@
+this is a text file. its content is unique to feature-2 branch
